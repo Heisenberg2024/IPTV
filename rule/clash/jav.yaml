@@ -1,29 +1,29 @@
 payload:
   - DOMAIN-SUFFIX,attackers.net
   - DOMAIN-SUFFIX,s1s1s1.com
-  - DOMAIN-SUFFIX,www.mgstage.com
-  - DOMAIN-SUFFIX,www.prestige-av.com
-  - DOMAIN-SUFFIX,www.dmm.co.jp
+  - DOMAIN-SUFFIX,mgstage.com
+  - DOMAIN-SUFFIX,prestige-av.com
+  - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,paycalling.com
   - DOMAIN-SUFFIX,airav.cc
-  - DOMAIN-SUFFIX,www.dmm.com
-  - DOMAIN-SUFFIX,www.javbus.com
-  - DOMAIN-SUFFIX,api.tv.dmm.com
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN,api.tv.dmm.com
   - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-SUFFIX,www.jav321.com
+  - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,freejavbt.com
-  - DOMAIN-SUFFIX,translate.google.com
-  - DOMAIN-SUFFIX,www.google.com
+  - DOMAIN,translate.google.com
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,av-wiki.net
-  - DOMAIN-SUFFIX,cc3001.dmm.co.jp
+  - DOMAIN,cc3001.dmm.co.jp
   - DOMAIN-SUFFIX,km-produce.com
-  - DOMAIN-SUFFIX,www.km-produce.com
-  - DOMAIN-SUFFIX,image.mgstage.com
-  - DOMAIN-SUFFIX,www.amazon.co.jp
-  - DOMAIN-SUFFIX,cdn.up-timely.com
-  - DOMAIN-SUFFIX,m.media-amazon.com
-  - DOMAIN-SUFFIX,pics.dmm.co.jp
-  - DOMAIN-SUFFIX,sample.mgstage.com
+  - DOMAIN-SUFFIX,km-produce.com
+  - DOMAIN,image.mgstage.com
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN,cdn.up-timely.com
+  - DOMAIN,m.media-amazon.com
+  - DOMAIN,pics.dmm.co.jp
+  - DOMAIN,sample.mgstage.com
   - DOMAIN-SUFFIX,graphis.ne.jp
-  - DOMAIN-SUFFIX,www.javlibrary.com
-  - DOMAIN-SUFFIX,www.getchu.com
+  - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,getchu.com
