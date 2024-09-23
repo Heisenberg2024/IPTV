@@ -1,3 +1,3 @@
 PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
 PROCESS-NAME,/Applications/Windows App.app/Contents/MacOS/Windows App
-
+PROCESS-NAME,/opt/homebrew/bin/cloudflared
