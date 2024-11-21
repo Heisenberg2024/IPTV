@@ -1,2 +1,7 @@
-PROCESS-NAME,/Applications/Microsoft Remote Desktop.app/Contents/MacOS/Microsoft Remote Desktop
-PROCESS-NAME,/Applications/Windows App.app/Contents/MacOS/Windows App
+PROCESS-NAME,Windows App
+PROCESS-NAME,ssh
+PROCESS-NAME,git-remote-http
+PROCESS-NAME,cloudflared
+PROCESS-NAME,curl
+PROCESS-NAME,wget
+PROCESS-NAME,dig
